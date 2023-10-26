@@ -1,0 +1,110 @@
+{
+    "scopeId": "000000000000000000015fd0",
+    "name": "Pati\u00f1o",
+    "codigo": "09006",
+    "envio": 98.0,
+    "census": 64841.0,
+    "pollingCensus": 64474.0,
+    "numStation": 220.0,
+    "pollingNumStation": 218.0,
+    "pollingPercStation": 99.09,
+    "electores": 46445.0,
+    "sobres": 46898.0,
+    "nulos": 195.0,
+    "percNulos": 0.41,
+    "recurridos": 64.0,
+    "percRecurridos": 0.13,
+    "blancos": 578.0,
+    "percBlancos": 1.21,
+    "comando": 20.0,
+    "percComando": 0.04,
+    "impugnados": 3.0,
+    "percImpugnados": 0.01,
+    "totalVotos": 47443.0,
+    "afirmativos": 46583.0,
+    "percAfirmativos": 98.18,
+    "abstencion": 17031.0,
+    "percAbstencion": 26.41,
+    "valid": 47161.0,
+    "percValid": 99.4,
+    "recImpCom": 87.0,
+    "percRecImpCom": 0.18,
+    "participation": 73.58,
+    "cargos": 0.0,
+    "hayEmpates": false,
+    "umbral": 0.0,
+    "showCargos": 0.0,
+    "isCircus": 1.0,
+    "partidos": [
+        {
+            "code": "134",
+            "name": "UNION POR LA PATRIA",
+            "codTel": "134",
+            "codLogo": "000134",
+            "votos": 28246.0,
+            "perc": 60.63,
+            "percCarg": 60.63,
+            "cargos": 0.0,
+            "candidatos": [
+                "SERGIO TOMAS MASSA",
+                "AGUSTIN ROSSI"
+            ]
+        },
+        {
+            "code": "135",
+            "name": "LA LIBERTAD AVANZA",
+            "codTel": "135",
+            "codLogo": "000135",
+            "votos": 10931.0,
+            "perc": 23.46,
+            "percCarg": 23.46,
+            "cargos": 0.0,
+            "candidatos": [
+                "JAVIER GERARDO MILEI",
+                "VICTORIA VILLARRUEL"
+            ]
+        },
+        {
+            "code": "132",
+            "name": "JUNTOS POR EL CAMBIO",
+            "codTel": "132",
+            "codLogo": "000132",
+            "votos": 6554.0,
+            "perc": 14.06,
+            "percCarg": 14.06,
+            "cargos": 0.0,
+            "candidatos": [
+                "PATRICIA BULLRICH",
+                "LUIS PETRI"
+            ]
+        },
+        {
+            "code": "133",
+            "name": "HACEMOS POR NUESTRO PAIS",
+            "codTel": "133",
+            "codLogo": "000133",
+            "votos": 609.0,
+            "perc": 1.3,
+            "percCarg": 1.3,
+            "cargos": 0.0,
+            "candidatos": [
+                "JUAN SCHIARETTI",
+                "FLORENCIO RANDAZZO"
+            ]
+        },
+        {
+            "code": "136",
+            "name": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD",
+            "codTel": "136",
+            "codLogo": "000136",
+            "votos": 243.0,
+            "perc": 0.52,
+            "percCarg": 0.52,
+            "cargos": 0.0,
+            "candidatos": [
+                "MYRIAM TERESA BREGMAN",
+                "NICOLAS DEL CA\u00d1O"
+            ]
+        }
+    ]
+}
